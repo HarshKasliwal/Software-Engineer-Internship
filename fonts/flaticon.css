@@ -1,0 +1,1005 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 01/02/2021 10:15
+  	*/
+
+	@font-face {
+	    font-family: "Flaticon";
+	    src: url("Flaticon.eot");
+	    src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"), url("Flaticon.woff2") format("woff2"), url("Flaticon.woff") format("woff"), url("Flaticon.ttf") format("truetype"), url("Flaticon.svg#Flaticon") format("svg");
+	    font-weight: normal;
+	    font-style: normal;
+	}
+
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+	    @font-face {
+	        font-family: "Flaticon";
+	        src: url("Flaticon.svg#Flaticon") format("svg");
+	    }
+	}
+
+	[class^="flaticon-"]:before,
+	[class*=" flaticon-"]:before,
+	[class^="flaticon-"]:after,
+	[class*=" flaticon-"]:after {
+	    font-family: Flaticon;
+	    font-size: 20px;
+	    font-style: normal;
+	    margin-left: 0;
+	}
+
+	.flaticon-garden:before {
+	    content: "\f100";
+	}
+
+	.flaticon-trees:before {
+	    content: "\f101";
+	}
+
+	.flaticon-dumbbell:before {
+	    content: "\f102";
+	}
+
+	.flaticon-couch:before {
+	    content: "\f103";
+	}
+
+	.flaticon-sports:before {
+	    content: "\f104";
+	}
+
+	.flaticon-cheers:before {
+	    content: "\f105";
+	}
+
+	.flaticon-park:before {
+	    content: "\f106";
+	}
+
+	.flaticon-basketball-court:before {
+	    content: "\f107";
+	}
+
+	.flaticon-basketball:before {
+	    content: "\f108";
+	}
+
+	.flaticon-scythe:before {
+	    content: "\f109";
+	}
+
+	.flaticon-agriculture:before {
+	    content: "\f10a";
+	}
+
+	.flaticon-solar-panel:before {
+	    content: "\f10b";
+	}
+
+	.flaticon-water:before {
+	    content: "\f10c";
+	}
+
+	.flaticon-electric-car:before {
+	    content: "\f10d";
+	}
+
+	.flaticon-waiting-room:before {
+	    content: "\f10e";
+	}
+
+	.flaticon-books:before {
+	    content: "\f10f";
+	}
+
+	.flaticon-theater:before {
+	    content: "\f110";
+	}
+
+	.flaticon-cinema:before {
+	    content: "\f111";
+	}
+
+	.flaticon-amphitheatre:before {
+	    content: "\f112";
+	}
+
+	.flaticon-chess:before {
+	    content: "\f113";
+	}
+
+	.flaticon-butterfly:before {
+	    content: "\f114";
+	}
+
+	.flaticon-swimming-pool:before {
+	    content: "\f115";
+	}
+
+	.flaticon-running:before {
+	    content: "\f116";
+	}
+
+	.flaticon-roller-skate:before {
+	    content: "\f117";
+	}
+
+	.flaticon-tennis-racket:before {
+	    content: "\f118";
+	}
+
+	.flaticon-university:before {
+	    content: "\f119";
+	}
+
+	.flaticon-retail:before {
+	    content: "\f11a";
+	}
+
+	.flaticon-shopping-cart:before {
+	    content: "\f11b";
+	}
+
+	.flaticon-skyscrapper:before {
+	    content: "\f11c";
+	}
+
+	.flaticon-condominium:before {
+	    content: "\f11d";
+	}
+
+	.flaticon-condominium-1:before {
+	    content: "\f11e";
+	}
+
+	.flaticon-transportation:before {
+	    content: "\f11f";
+	}
+
+	.flaticon-house:before {
+	    content: "\f120";
+	}
+
+	.flaticon-house-1:before {
+	    content: "\f121";
+	}
+
+	.flaticon-lotus-position:before {
+	    content: "\f122";
+	}
+
+	.flaticon-plant:before {
+	    content: "\f123";
+	}
+
+	.flaticon-planet-earth:before {
+	    content: "\f124";
+	}
+
+	.flaticon-outdoor-cafe:before {
+	    content: "\f125";
+	}
+
+	.flaticon-chair:before {
+	    content: "\f126";
+	}
+
+	.flaticon-terrace:before {
+	    content: "\f127";
+	}
+
+	.flaticon-gamepad:before {
+	    content: "\f128";
+	}
+
+	.flaticon-game-controller:before {
+	    content: "\f129";
+	}
+
+	.flaticon-shower:before {
+	    content: "\f12a";
+	}
+
+	.flaticon-home:before {
+	    content: "\f12b";
+	}
+
+	.flaticon-bedroom:before {
+	    content: "\f12c";
+	}
+
+	.flaticon-hot:before {
+	    content: "\f12d";
+	}
+
+	.flaticon-sauna:before {
+	    content: "\f12e";
+	}
+
+	.flaticon-parking:before {
+	    content: "\f12f";
+	}
+
+	.flaticon-parking-1:before {
+	    content: "\f130";
+	}
+
+	.flaticon-conference:before {
+	    content: "\f131";
+	}
+
+	.flaticon-doors:before {
+	    content: "\f132";
+	}
+
+	.flaticon-door:before {
+	    content: "\f133";
+	}
+
+	.flaticon-air-conditioner:before {
+	    content: "\f134";
+	}
+
+	.flaticon-draws:before {
+	    content: "\f135";
+	}
+
+	.flaticon-paint:before {
+	    content: "\f136";
+	}
+
+	.flaticon-paint-roller:before {
+	    content: "\f137";
+	}
+
+	.flaticon-window:before {
+	    content: "\f138";
+	}
+
+	.flaticon-windows:before {
+	    content: "\f139";
+	}
+
+	.flaticon-jacuzzi:before {
+	    content: "\f13a";
+	}
+
+	.flaticon-jacuzzi-1:before {
+	    content: "\f13b";
+	}
+
+	.flaticon-bin:before {
+	    content: "\f13c";
+	}
+
+	.flaticon-recycle-bin:before {
+	    content: "\f13d";
+	}
+
+	.flaticon-recycling-bin:before {
+	    content: "\f13e";
+	}
+
+	.flaticon-table-tennis:before {
+	    content: "\f13f";
+	}
+
+	.flaticon-extinguisher:before {
+	    content: "\f140";
+	}
+
+	.flaticon-extinguisher-1:before {
+	    content: "\f141";
+	}
+
+	.flaticon-hot-spring:before {
+	    content: "\f142";
+	}
+
+	.flaticon-lotus:before {
+	    content: "\f143";
+	}
+
+	.flaticon-home-1:before {
+	    content: "\f144";
+	}
+
+	.flaticon-home-2:before {
+	    content: "\f145";
+	}
+
+	.flaticon-location:before {
+	    content: "\f146";
+	}
+
+	.flaticon-blueprint:before {
+	    content: "\f147";
+	}
+
+	.flaticon-pin:before {
+	    content: "\f148";
+	}
+
+	.flaticon-pin-1:before {
+	    content: "\f149";
+	}
+
+	.flaticon-bed:before {
+	    content: "\f14a";
+	}
+
+	.flaticon-shower-1:before {
+	    content: "\f14b";
+	}
+
+	.flaticon-hand-sanitizer:before {
+	    content: "\f14c";
+	}
+
+	.flaticon-hygienic:before {
+	    content: "\f14d";
+	}
+
+	.flaticon-inbox:before {
+	    content: "\f14e";
+	}
+
+	.flaticon-rupee-indian:before {
+	    content: "\f14f";
+	}
+
+	.flaticon-rupee:before {
+	    content: "\f150";
+	}
+
+	.flaticon-rupee-1:before {
+	    content: "\f151";
+	}
+
+	.flaticon-tick:before {
+	    content: "\f152";
+	}
+
+	.flaticon-tick-1:before {
+	    content: "\f153";
+	}
+
+	.flaticon-car:before {
+	    content: "\f154";
+	}
+
+	.flaticon-coffee:before {
+	    content: "\f155";
+	}
+
+	.flaticon-coffee-cup:before {
+	    content: "\f156";
+	}
+
+	.flaticon-pizza:before {
+	    content: "\f157";
+	}
+
+	.flaticon-cutlery:before {
+	    content: "\f158";
+	}
+
+	.flaticon-train:before {
+	    content: "\f159";
+	}
+
+	.flaticon-train-1:before {
+	    content: "\f15a";
+	}
+
+	.flaticon-mall:before {
+	    content: "\f15b";
+	}
+
+	.flaticon-mall-1:before {
+	    content: "\f15c";
+	}
+
+	.flaticon-shopping-cart-1:before {
+	    content: "\f15d";
+	}
+
+	.flaticon-school:before {
+	    content: "\f15e";
+	}
+
+	.flaticon-woodland:before {
+	    content: "\f15f";
+	}
+
+	.flaticon-plane:before {
+	    content: "\f160";
+	}
+
+	.flaticon-plane-1:before {
+	    content: "\f161";
+	}
+
+	.flaticon-highway:before {
+	    content: "\f162";
+	}
+
+	.flaticon-bank:before {
+	    content: "\f163";
+	}
+
+	.flaticon-atm-machine:before {
+	    content: "\f164";
+	}
+
+	.flaticon-home-security:before {
+	    content: "\f165";
+	}
+
+	.flaticon-shield:before {
+	    content: "\f166";
+	}
+
+	.flaticon-panorama:before {
+	    content: "\f167";
+	}
+
+	.flaticon-panoramic-view:before {
+	    content: "\f168";
+	}
+
+	.flaticon-virtual-reality:before {
+	    content: "\f169";
+	}
+
+	.flaticon-lamps:before {
+	    content: "\f16a";
+	}
+
+	.flaticon-lamp-design-with-curls:before {
+	    content: "\f16b";
+	}
+
+	.flaticon-living-room:before {
+	    content: "\f16c";
+	}
+
+	.flaticon-fraternity:before {
+	    content: "\f16d";
+	}
+
+	.flaticon-barbell:before {
+	    content: "\f16e";
+	}
+
+	.flaticon-exercise:before {
+	    content: "\f16f";
+	}
+
+	.flaticon-ping-pong:before {
+	    content: "\f170";
+	}
+
+	.flaticon-bicycle:before {
+	    content: "\f171";
+	}
+
+	.flaticon-toys:before {
+	    content: "\f172";
+	}
+
+	.flaticon-grandfather:before {
+	    content: "\f173";
+	}
+
+	.flaticon-senior:before {
+	    content: "\f174";
+	}
+
+	.flaticon-confetti:before {
+	    content: "\f175";
+	}
+
+	.flaticon-drink:before {
+	    content: "\f176";
+	}
+
+	.flaticon-meditation:before {
+	    content: "\f177";
+	}
+
+	.flaticon-tyre:before {
+	    content: "\f178";
+	}
+
+	.flaticon-tyre-1:before {
+	    content: "\f179";
+	}
+
+	.flaticon-car-1:before {
+	    content: "\f17a";
+	}
+
+	.flaticon-hospital:before {
+	    content: "\f17b";
+	}
+
+	.flaticon-fire-truck:before {
+	    content: "\f17c";
+	}
+
+	.flaticon-om:before {
+	    content: "\f17d";
+	}
+
+	.flaticon-dance:before {
+	    content: "\f17e";
+	}
+
+	.flaticon-ballet:before {
+	    content: "\f17f";
+	}
+
+	.flaticon-waterpark:before {
+	    content: "\f180";
+	}
+
+	.flaticon-canvas:before {
+	    content: "\f181";
+	}
+
+	.flaticon-education:before {
+	    content: "\f182";
+	}
+
+	.flaticon-playing-cards:before {
+	    content: "\f183";
+	}
+
+	.flaticon-snooker:before {
+	    content: "\f184";
+	}
+
+	.flaticon-climbing:before {
+	    content: "\f185";
+	}
+
+	.flaticon-cricket:before {
+	    content: "\f186";
+	}
+
+	.flaticon-laptop:before {
+	    content: "\f187";
+	}
+
+	.flaticon-secure-shield:before {
+	    content: "\f188";
+	}
+
+	.flaticon-shield-1:before {
+	    content: "\f189";
+	}
+
+	.flaticon-video-door-phone:before {
+	    content: "\f18a";
+	}
+
+	.flaticon-lobby:before {
+	    content: "\f18b";
+	}
+
+	.flaticon-elevator:before {
+	    content: "\f18c";
+	}
+
+	.flaticon-deck-chair:before {
+	    content: "\f18d";
+	}
+
+	.flaticon-deck-chair-1:before {
+	    content: "\f18e";
+	}
+
+	.flaticon-bbq-grill:before {
+	    content: "\f18f";
+	}
+
+	.flaticon-grill:before {
+	    content: "\f190";
+	}
+
+	.flaticon-key:before {
+	    content: "\f191";
+	}
+
+	.flaticon-key-1:before {
+	    content: "\f192";
+	}
+
+	.flaticon-key-2:before {
+	    content: "\f193";
+	}
+
+	.flaticon-exercise-1:before {
+	    content: "\f194";
+	}
+
+	.flaticon-yoga-position:before {
+	    content: "\f195";
+	}
+
+	.flaticon-toddler:before {
+	    content: "\f196";
+	}
+
+	.flaticon-butterflies:before {
+	    content: "\f197";
+	}
+
+	.flaticon-grass:before {
+	    content: "\f198";
+	}
+
+	.flaticon-swimming-pool-1:before {
+	    content: "\f199";
+	}
+
+	.flaticon-water-slide:before {
+	    content: "\f19a";
+	}
+
+	.flaticon-gazebo:before {
+	    content: "\f19b";
+	}
+
+	.flaticon-footprint:before {
+	    content: "\f19c";
+	}
+
+	.flaticon-footprint-1:before {
+	    content: "\f19d";
+	}
+
+	.flaticon-gardening:before {
+	    content: "\f19e";
+	}
+
+	.flaticon-building:before {
+	    content: "\f19f";
+	}
+
+	.flaticon-watering-can:before {
+	    content: "\f1a0";
+	}
+
+	.flaticon-park-1:before {
+	    content: "\f1a1";
+	}
+
+	.flaticon-bench:before {
+	    content: "\f1a2";
+	}
+
+	.flaticon-park-2:before {
+	    content: "\f1a3";
+	}
+
+	.flaticon-castle:before {
+	    content: "\f1a4";
+	}
+
+	.flaticon-beer-mug:before {
+	    content: "\f1a5";
+	}
+
+	.flaticon-consulting:before {
+	    content: "\f1a6";
+	}
+
+	.flaticon-bonfire:before {
+	    content: "\f1a7";
+	}
+
+	.flaticon-bonfire-1:before {
+	    content: "\f1a8";
+	}
+
+	.flaticon-bonfire-2:before {
+	    content: "\f1a9";
+	}
+
+	.flaticon-road-map:before {
+	    content: "\f1aa";
+	}
+
+	.flaticon-road:before {
+	    content: "\f1ab";
+	}
+
+	.flaticon-choice:before {
+	    content: "\f1ac";
+	}
+
+	.flaticon-family:before {
+	    content: "\f1ad";
+	}
+
+	.flaticon-family-1:before {
+	    content: "\f1ae";
+	}
+
+	.flaticon-family-2:before {
+	    content: "\f1af";
+	}
+
+	.flaticon-trophy:before {
+	    content: "\f1b0";
+	}
+
+	.flaticon-region:before {
+	    content: "\f1b1";
+	}
+
+	.flaticon-architect:before {
+	    content: "\f1b2";
+	}
+
+	.flaticon-toilet:before {
+	    content: "\f1b3";
+	}
+
+	.flaticon-toilet-1:before {
+	    content: "\f1b4";
+	}
+
+	.flaticon-palm-tree:before {
+	    content: "\f1b5";
+	}
+
+	.flaticon-shower-2:before {
+	    content: "\f1b6";
+	}
+
+	.flaticon-shower-3:before {
+	    content: "\f1b7";
+	}
+
+	.flaticon-ranking:before {
+	    content: "\f1b8";
+	}
+
+	.flaticon-cutlery-1:before {
+	    content: "\f1b9";
+	}
+
+	.flaticon-kitchen:before {
+	    content: "\f1ba";
+	}
+
+	.flaticon-microwave:before {
+	    content: "\f1bb";
+	}
+
+	.flaticon-kitchen-1:before {
+	    content: "\f1bc";
+	}
+
+	.flaticon-tray:before {
+	    content: "\f1bd";
+	}
+
+	.flaticon-bake:before {
+	    content: "\f1be";
+	}
+
+	.flaticon-mixer:before {
+	    content: "\f1bf";
+	}
+
+	.flaticon-hand:before {
+	    content: "\f1c0";
+	}
+
+	.flaticon-handshake:before {
+	    content: "\f1c1";
+	}
+
+	.flaticon-conversation:before {
+	    content: "\f1c2";
+	}
+
+	.flaticon-speech-bubble:before {
+	    content: "\f1c3";
+	}
+
+	.flaticon-home-3:before {
+	    content: "\f1c4";
+	}
+
+	.flaticon-www:before {
+	    content: "\f1c5";
+	}
+
+	.flaticon-bar-chart:before {
+	    content: "\f1c6";
+	}
+
+	.flaticon-loupe:before {
+	    content: "\f1c7";
+	}
+
+	.flaticon-support:before {
+	    content: "\f1c8";
+	}
+
+	.flaticon-resume:before {
+	    content: "\f1c9";
+	}
+
+	.flaticon-clock:before {
+	    content: "\f1ca";
+	}
+
+	.flaticon-antique-balcony:before {
+	    content: "\f1cb";
+	}
+
+	.flaticon-balcony:before {
+	    content: "\f1cc";
+	}
+
+	.flaticon-soccer-ball-variant:before {
+	    content: "\f1cd";
+	}
+
+	.flaticon-football:before {
+	    content: "\f1ce";
+	}
+
+	.flaticon-pond:before {
+	    content: "\f1cf";
+	}
+
+	.flaticon-lake:before {
+	    content: "\f1d0";
+	}
+
+	.flaticon-youth:before {
+	    content: "\f1d1";
+	}
+
+	.flaticon-swimming-pool-2:before {
+	    content: "\f1d2";
+	}
+
+	.flaticon-swimming-pool-3:before {
+	    content: "\f1d3";
+	}
+
+	.flaticon-fountain:before {
+	    content: "\f1d4";
+	}
+
+	.flaticon-fountain-1:before {
+	    content: "\f1d5";
+	}
+
+	.flaticon-swing:before {
+	    content: "\f1d6";
+	}
+
+	.flaticon-bamboo:before {
+	    content: "\f1d7";
+	}
+
+	.flaticon-bamboo-1:before {
+	    content: "\f1d8";
+	}
+
+	.flaticon-graduated:before {
+	    content: "\f1d9";
+	}
+
+	.flaticon-mortarboard:before {
+	    content: "\f1da";
+	}
+
+	.flaticon-diploma:before {
+	    content: "\f1db";
+	}
+
+	.flaticon-plumbing:before {
+	    content: "\f1dc";
+	}
+
+	.flaticon-tribune:before {
+	    content: "\f1dd";
+	}
+
+	.flaticon-basin:before {
+	    content: "\f1de";
+	}
+
+	.flaticon-conference-1:before {
+	    content: "\f1df";
+	}
+
+	.flaticon-lobby-1:before {
+	    content: "\f1e0";
+	}
+
+	.flaticon-cctv:before {
+	    content: "\f1e1";
+	}
+
+	.flaticon-cctv-camera:before {
+	    content: "\f1e2";
+	}
+
+	.flaticon-tower:before {
+	    content: "\f1e3";
+	}
+
+	.flaticon-electric:before {
+	    content: "\f1e4";
+	}
+
+	.flaticon-plug:before {
+	    content: "\f1e5";
+	}
+
+	.flaticon-fire-extinguisher:before {
+	    content: "\f1e6";
+	}
+
+	.flaticon-earthquake:before {
+	    content: "\f1e7";
+	}
+
+	.flaticon-bus-stop:before {
+	    content: "\f1e8";
+	}
+
+	.flaticon-squash:before {
+	    content: "\f1e9";
+	}
+
+	.flaticon-relax:before {
+	    content: "\f1ea";
+	}
+
+	.flaticon-bridge:before {
+	    content: "\f1eb";
+	}
+
+	.flaticon-golf:before {
+	    content: "\f1ec";
+	}
+
+	.flaticon-certificate:before {
+	    content: "\f1ed";
+	}
+
+	.flaticon-crane:before {
+	    content: "\f1ee";
+	}
+
+	.flaticon-architect-1:before {
+	    content: "\f1ef";
+	}
+
+	.flaticon-dice:before {
+	    content: "\f1f0";
+	}
+
+	.flaticon-carrom:before {
+	    content: "\f1f1";
+	}
+
+	.flaticon-foosball:before {
+	    content: "\f1f2";
+	}
+
+	.flaticon-wall:before {
+	    content: "\f1f3";
+	}
