@@ -8,4 +8,5 @@
 - Property name: Lodha World_Tower, Mumbai
 
 ### Certificate of Completion
-![Internship Certificate](https://github.com/HarshKasliwal/Front-End-Web-Developer---Internship/assets/91011623/789ac67a-a9b2-4e22-92a5-3f3aa5f26355)
+![Internship](https://github.com/HarshKasliwal/Front-End-Web-Developer---Internship/assets/91011623/e0a3b78f-ea48-4d82-a485-70d9ad6334d5)
+
